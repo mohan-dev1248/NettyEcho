@@ -17,7 +17,7 @@ public class EchoServer {
     }
 
     public static void main(String[] args) throws Exception {
-        new EchoServer(10100).start();
+        new EchoServer(10101).start();
     }
 
     public void start() throws Exception{
